@@ -1,0 +1,32 @@
+# Updated: 2026-05-22 11:58:32
+# Conda environment: update_environment
+
+asttokens @ file:///C:/Users/task_177313490604433/croot/asttokens_1773135664379/work
+colorama @ file:///C:/Users/dev-admin/buildout/croot/colorama_1759952627215/work
+comm @ file:///C:/Users/dev-admin/buildout/croot/comm_1763637613849/work
+debugpy @ file:///C:/miniconda3/conda-bld/debugpy_1762421656989/work
+decorator @ file:///C:/Users/dev-admin/buildout/croot/decorator_1759956412694/work
+executing @ file:///C:/Users/dev-admin/buildout/croot/executing_1761985455628/work
+ipykernel @ file:///C:/Users/task_177261244345710/croot/ipykernel_1772612563750/work
+ipython @ file:///C:/Users/task_177399609549671/croot/ipython_1773996192476/work
+ipython_pygments_lexers @ file:///C:/Users/dev-admin/buildout/croot/ipython_pygments_lexers_1759956485878/work
+jedi @ file:///C:/Users/task_177868139722730/croot/jedi_1778681789694/work
+jupyter_client @ file:///C:/Users/task_176839910273266/croot/jupyter_client_1768399224994/work
+jupyter_core @ file:///C:/Users/dev-admin/buildout/croot/jupyter_core_1765281302918/work
+matplotlib-inline @ file:///C:/miniconda3/conda-bld/matplotlib-inline_1762779269415/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+packaging==26.0
+parso @ file:///C:/Users/task_177867410244795/croot/parso_1778674223314/work
+platformdirs @ file:///C:/Users/task_177365241405064/croot/platformdirs_1773652995284/work
+prompt_toolkit @ file:///C:/miniconda3/conda-bld/prompt-toolkit_1761745044554/work
+psutil @ file:///C:/miniconda3/conda-bld/psutil_1761896536168/work
+pure_eval @ file:///C:/Users/dev-admin/buildout/croot/pure_eval_1759956052992/work
+Pygments @ file:///C:/Users/task_177512697712397/croot/pygments_1775127052270/work
+python-dateutil @ file:///C:/Users/dev-admin/buildout/croot/python-dateutil_1759954839763/work
+pywin32 @ file:///C:/Users/dev-admin/buildout/croot/pywin32_1759953972432/work
+pyzmq @ file:///C:/miniconda3/conda-bld/pyzmq_1762375620799/work
+six @ file:///C:/Users/dev-admin/buildout/croot/six_1759954493303/work
+stack_data @ file:///C:/Users/dev-admin/buildout/croot/stack_data_1759957300617/work
+tornado @ file:///C:/Users/task_177430349855574/croot/tornado_1774303659293/work
+traitlets @ file:///C:/Users/task_177874327752383/croot/traitlets_1778743391161/work
+wcwidth @ file:///C:/Users/task_176777903181948/croot/wcwidth_1767779236270/work

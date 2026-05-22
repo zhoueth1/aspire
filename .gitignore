@@ -1,1 +1,11 @@
-Raw Data/
+yolo_files/
+
+# Ignore raw data files, but keep folder structure
+Data/Raw Data/*
+!Data/Raw Data/.gitkeep
+
+# Ignore PNG files, but keep folder structure
+Data/PNGs/*
+!Data/PNGs/.gitkeep
+
+*.pt
