@@ -1,4 +1,5 @@
 yolo_files/
+runs_tracking/
 
 # Ignore raw data files, but keep folder structure
 Data/Raw Data/*
